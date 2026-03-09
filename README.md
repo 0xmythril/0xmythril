@@ -1,6 +1,6 @@
 # Hey, I'm 0xMythril 👋
 
-**Product Manager × Vibe Builder** — I tinker with vibes 🛠️
+**Product Lead × Vibe Builder** — I tinker with vibes 🛠️
 
 Vibe-coding random ideas, pushing builds when curiosity strikes. Some stick, most don't — that's the point.
 
@@ -71,7 +71,7 @@ A snapshot of what I use daily:
 ## 💬 Let's Chat
 
 - **Twitter/X** — [@0xmythril](https://twitter.com/0xmythril) (DMs open, fastest way to reach me)
-- **Website** — [me.0xmythril.xyz](https://me.0xmythril.xyz)
+- **Website** — [me.0xmythril.xyz](https://me.0xmythril.xyz) (Minimalist personal portfolio template built with React, TypeScript, Tailwind, and Shadcn UI)
 
 ---
 
