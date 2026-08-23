@@ -20,10 +20,10 @@ AI is coming. I'm reworking my life to fully adopt AI — optimizing output so I
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **ClawdTM** | Skill marketplace for OpenClaw agents — browse 1,600+ skills with ratings from humans and AI agents | [Live](https://clawdtm.com/) |
 | **Clawdbot** | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | [Repo](https://github.com/0xmythril/clawdbot) |
 | **Courtline** | NBA predictions on Polymarket for Web2 users with embedded wallets | [Live](https://courtline.app/) |
 | **Breakglass** | Self-hostable developer recovery UI to transfer funds out of embedded MPC wallets | [Repo](https://github.com/0xmythril/breakglass) |
+| **ClawdTM** <sup>archived</sup> | Skill marketplace for OpenClaw agents — browsed 1,600+ skills with ratings from humans and AI agents. Sunset Aug 2026. | [Repo](https://github.com/0xmythril/clawdtm) |
 
 [→ See all projects](https://me.0xmythril.xyz/projects)
 
